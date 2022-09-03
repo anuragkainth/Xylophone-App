@@ -1,6 +1,8 @@
 # xylophone
 
-A new Flutter project.
+Flutter project to create a Xylophone instrument App.
+
+<img src="screenshots/Xylophone-ss.png" width=300.0>
 
 ## Getting Started
 
